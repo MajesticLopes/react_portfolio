@@ -1,12 +1,13 @@
 import './navbar.css'
 import Logo from '../../assets/logo.jpg'
 import data from './data'
+import { IoColorPalette } from "react-icons/io5";
 
 const Navbar = () => {
   return (
     <nav>
       <div className="container nav__container">
-        <a href="">
+        <a href="index.html" className='nav__logo'>
           <img src={Logo} alt="Logo" />
         </a>
         <ul className='Nav__menu'>
@@ -16,7 +17,7 @@ const Navbar = () => {
 
 
         </ul>
-        <button></button>
+        <button id='theme_icon'>IoColorPalette</button>
       </div>
     </nav>
   )
