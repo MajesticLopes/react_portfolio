@@ -1,7 +1,7 @@
 import './navbar.css'
 import Logo from '../../assets/logo.jpg'
 import data from './data'
-import { IoColorPalette } from "react-icons/io5";
+import { IoColorPaletteOutline } from "react-icons/io5";
 
 const Navbar = () => {
   return (
@@ -17,7 +17,7 @@ const Navbar = () => {
 
 
         </ul>
-        <button id='theme_icon'>IoColorPalette</button>
+        <button id='theme_icon'><IoColorPaletteOutline /></button>
       </div>
     </nav>
   )
