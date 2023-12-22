@@ -1,6 +1,6 @@
 import './header.css'
 import HeaderImage from '../../assets/header.jpg'
-
+import data from './data'
 const Header = () => {
   return (
     <header id="header">
@@ -16,8 +16,14 @@ const Header = () => {
         In short, feel comfortable asking me any questions regarding my professional background.
         </p>
         <div className='header__cta'>
-          <a href="#contact">Let's Talk</a>
-          <a href="#portfolio">My Work</a>
+          <a href="#contact" className='btn primary'>Let's Talk</a>
+          <a href="#portfolio" className='btn light'>My Work</a>
+        </div>
+        <div className="header__socials">
+          {
+            data.map(item => <a key={item.id} href={item.link} target="_blank"
+            rel="noopener noreferrer">{item.icon}</a>)
+          }
         </div>
       </div>
     </header>
