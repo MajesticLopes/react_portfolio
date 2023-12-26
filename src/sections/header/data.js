@@ -1,7 +1,7 @@
 import {AiOutlineInstagram} from 'react-icons/ai'
 import { FaLinkedin } from "react-icons/fa"
 import {AiFillGithub} from 'react-icons/ai'
-import { FaFacebook } from "react-icons/fa";
+import { FaFacebook } from "react-icons/fa"
 
 const data = [
   {id: 1, link: 'https://www.instagram.com/majesticlopes/', icon: <AiOutlineInstagram/>},
