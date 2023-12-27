@@ -10,7 +10,7 @@ const Header = () => {
         </div>
         <h3>Michael Lopes</h3>
         <p>
-        Sports enthusiast and passionate about IT and sales, I am a junior full-stack developer with a solid background in management.
+        Sports enthusiast and passionate about IT and sales, I am a junior full-stack web developer with a solid background in management.
         </p>
         <div className='header__cta'>
           <a href="#contact" className='btn primary'>Let's Talk</a>
