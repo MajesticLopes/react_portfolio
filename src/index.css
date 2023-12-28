@@ -101,7 +101,7 @@ h6 {
   font-size: 0.8rem;
 }
 
-.img {
+img {
   display: block;
   width: 100%;
   object-fit: cover;
@@ -121,7 +121,7 @@ h6 {
   cursor: pointer;
 }
 
-.btn {
+.btn:hover {
   background-color: transparent;
   border-color: var(--color-light);
   transform: translateY(-0.5rem);
