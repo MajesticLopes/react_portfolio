@@ -1,5 +1,5 @@
 import './about.css'
-import AboutImage from '../../assets/about.jpeg'
+import AboutImage from '../../assets/about2.jpg'
 import CV from '../../assets/cv.pdf'
 import { BsDownload } from "react-icons/bs";
 import Card from '../../components/Card'
