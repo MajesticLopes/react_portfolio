@@ -14,7 +14,7 @@ const Header = () => {
         </p>
         <div className='header__cta'>
           <a href="#contact" className='btn primary'>Let's Talk</a>
-          <a href="#portfolio" className='btn white'>My Work</a>
+          <a href="#portfolio" className='btn light'>My Work</a>
         </div>
         <div className="header__socials">
           {
