@@ -1,5 +1,5 @@
-import Image1 from '../../assets/project1.png'
-import Image2 from '../../assets/project2.png'
+import Image1 from '../../assets/planeat2.jpeg'
+import Image2 from '../../assets/bookbnb2.jpeg'
 
 const  data = [
   {
