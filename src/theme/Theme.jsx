@@ -22,7 +22,7 @@ const Theme = () => {
       </div>
       <div className="theme__background-wrapper">
         <h5>Background Color</h5>
-        <div className="theme_background-colors">
+        <div className="theme__background-colors">
           {
             backgroundColors.map(bColor => <BackgroundColor key={bColor.className} className={bColor.className} />)
           }
