@@ -1,5 +1,5 @@
 import './about.css'
-import AboutImage from '../../assets/about.jpeg'
+import AboutImage from '../../assets/about2.jpg'
 import CV from '../../assets/cv.pdf'
 import { BsDownload } from "react-icons/bs";
 import Card from '../../components/Card'
@@ -11,7 +11,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__left">
           <div className="about__portrait">
-            <img height="500" width="371" src={AboutImage} alt="About Img" />
+            <img src={AboutImage} alt="About Img" />
           </div>
         </div>
         <div className="about__right">
@@ -29,7 +29,7 @@ const About = () => {
           </div>
           <p>
             Hi, my name is Michael Lopes Marinho from Rio de Janeiro, Brazil.
-            During a period of 6 months, I was able to work in a group, create projects, practice and improve in all the basics of programming through HTML, SASS/CSS, Javascript ES6, Stimulus, React, Ruby, Ruby on Rails, Bootstrap , Git, Github, Figma and Heroku.
+            During a period of 1 year, I was able to work in a group, create projects, practice and improve in all the basics of programming through HTML, SASS/CSS, Javascript ES6, Stimulus, React, Ruby, Ruby on Rails, Bootstrap , Git, Github, Figma and Heroku.
           </p>
           <p>
             Having recently completed an intensive bootcamp at Le Wagon Montreal and having completed several team projects, I present myself as an adaptable, curious and very motivated person.

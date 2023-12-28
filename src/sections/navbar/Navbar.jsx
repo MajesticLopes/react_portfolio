@@ -1,5 +1,5 @@
 import './navbar.css'
-import Logo from '../../assets/logo.jpg'
+import Logo from '../../assets/header3.jpeg'
 import data from './data'
 import { IoColorPaletteOutline } from "react-icons/io5";
 
