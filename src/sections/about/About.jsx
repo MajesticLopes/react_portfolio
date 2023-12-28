@@ -29,7 +29,7 @@ const About = () => {
           </div>
           <p>
             Hi, my name is Michael Lopes Marinho from Rio de Janeiro, Brazil.
-            During a period of 6 months, I was able to work in a group, create projects, practice and improve in all the basics of programming through HTML, SASS/CSS, Javascript ES6, Stimulus, React, Ruby, Ruby on Rails, Bootstrap , Git, Github, Figma and Heroku.
+            During a period of 1 year, I was able to work in a group, create projects, practice and improve in all the basics of programming through HTML, SASS/CSS, Javascript ES6, Stimulus, React, Ruby, Ruby on Rails, Bootstrap , Git, Github, Figma and Heroku.
           </p>
           <p>
             Having recently completed an intensive bootcamp at Le Wagon Montreal and having completed several team projects, I present myself as an adaptable, curious and very motivated person.
