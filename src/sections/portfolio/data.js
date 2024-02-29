@@ -1,5 +1,6 @@
 import Image1 from '../../assets/planeat2.jpeg'
 import Image2 from '../../assets/bookbnb2.jpeg'
+import Image3 from '../../assets/tvshow.jpeg'
 
 const  data = [
   {
@@ -10,6 +11,16 @@ const  data = [
     desc: "With my team, I worked on the production of Plan-Eat, a mobile application that allows you to plan your meals for the week while remaining eco-responsible. Using Figma and the Agile methodology, we concluded this project after a period of 3 weeks in respecting the UI/UX design. The technical skills used are Ruby on Rails, SASS, Stimulus JS and Bootstrap.",
     demo: "https://www.plan-eat.site/",
     github: "https://github.com/Versus8/PLAN_EAT"
+
+  },
+  {
+    id: 3,
+    category: 'Front-End',
+    image: Image3,
+    title: "TVShow Advice (Front-End)",
+    desc: "Using an API, I was able to create this application which allows us to see the best series of the moment as well as their rating.",
+    demo: "https://tvshow-advice.online/",
+    github: "https://github.com/MajesticLopes/react-tv-show-adviser"
 
   },
   {
